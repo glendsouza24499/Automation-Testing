@@ -1,0 +1,115 @@
+02/26/26 05:12:49 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:12:50 PM: CustomSeleniumDriver : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/26/26 05:12:50 PM: CustomSeleniumDriver : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/26/26 05:12:50 PM: CustomSeleniumDriver : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/26/26 05:12:52 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:12:52 PM: CustomSeleniumDriver : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/26/26 05:12:55 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:12:55 PM: CustomSeleniumDriver : INFO: Element Presence Check : Element Found
+02/26/26 05:12:55 PM: CustomSeleniumDriver : INFO: Login Successful
+02/26/26 05:12:55 PM: CustomSeleniumDriver : DEBUG: *****End of login_test.py execution*****
+02/26/26 05:13:47 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:13:48 PM: CustomSeleniumDriver : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/26/26 05:13:48 PM: CustomSeleniumDriver : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/26/26 05:13:48 PM: CustomSeleniumDriver : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/26/26 05:13:50 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:13:50 PM: CustomSeleniumDriver : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/26/26 05:13:57 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:13:57 PM: CustomSeleniumDriver : INFO: Element Presence Check : Element Found
+02/26/26 05:13:57 PM: CustomSeleniumDriver : INFO: Login Successful
+02/26/26 05:13:57 PM: CustomSeleniumDriver : DEBUG: *****End of login_test.py execution*****
+02/26/26 05:15:22 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:15:23 PM: CustomSeleniumDriver : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/26/26 05:15:23 PM: CustomSeleniumDriver : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/26/26 05:15:23 PM: CustomSeleniumDriver : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/26/26 05:15:25 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:15:25 PM: CustomSeleniumDriver : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/26/26 05:15:32 PM: CustomSeleniumDriver : INFO: Element found
+02/26/26 05:15:32 PM: CustomSeleniumDriver : INFO: Element Presence Check : Element Found
+02/26/26 05:15:32 PM: CustomSeleniumDriver : INFO: Login Successful
+02/26/26 05:15:32 PM: CustomSeleniumDriver : DEBUG: **********End of login_test.py execution**********
+02/27/26 12:16:12 PM: LoginPage : INFO: Element found
+02/27/26 12:16:13 PM: LoginPage : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/27/26 12:16:13 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/27/26 12:16:13 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/27/26 12:16:15 PM: LoginPage : INFO: Element found
+02/27/26 12:16:15 PM: LoginPage : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/27/26 12:16:19 PM: LoginPage : INFO: Element found
+02/27/26 12:16:19 PM: LoginPage : INFO: Element Presence Check : Element Found
+02/27/26 12:16:19 PM: LoginPage : INFO: Login Successful
+02/27/26 12:16:19 PM: LoginPage : DEBUG: **********End of login_test.py execution**********
+02/27/26 12:50:51 PM: LoginPage : INFO: Element found
+02/27/26 12:50:52 PM: LoginPage : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/27/26 12:50:52 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/27/26 12:50:52 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/27/26 12:50:54 PM: LoginPage : INFO: Element found
+02/27/26 12:50:54 PM: LoginPage : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/27/26 12:51:00 PM: LoginPage : WARNING: Element not found
+02/27/26 12:51:00 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 12:51:00 PM: LoginPage : WARNING: Element not clicked on the webpage:. Locator://span[@id="incorrectdetails"] Locator type: xpath
+02/27/26 12:51:00 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 12:51:01 PM: LoginPage : INFO: Element found
+02/27/26 12:51:01 PM: LoginPage : INFO: Element Presence Check : Element Found
+02/27/26 12:51:01 PM: LoginPage : INFO: Login Successful
+02/27/26 12:51:01 PM: LoginPage : DEBUG: **********End of login_test.py execution**********
+02/27/26 12:53:40 PM: LoginPage : INFO: Element found
+02/27/26 12:53:42 PM: LoginPage : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/27/26 12:53:42 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/27/26 12:53:42 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/27/26 12:53:44 PM: LoginPage : INFO: Element found
+02/27/26 12:53:44 PM: LoginPage : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/27/26 12:53:49 PM: LoginPage : WARNING: Element not found
+02/27/26 12:53:49 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 12:53:49 PM: LoginPage : INFO: Element Presence Check : Element Not Found
+02/27/26 12:53:49 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 12:53:49 PM: LoginPage : INFO: Element found
+02/27/26 12:53:49 PM: LoginPage : INFO: Element Presence Check : Element Found
+02/27/26 12:53:49 PM: LoginPage : INFO: Login Successful
+02/27/26 12:53:49 PM: LoginPage : DEBUG: **********End of login_test.py execution**********
+02/27/26 01:00:27 PM: LoginPage : INFO: Element found
+02/27/26 01:00:28 PM: LoginPage : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/27/26 01:00:28 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/27/26 01:00:29 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/27/26 01:00:31 PM: LoginPage : INFO: Element found
+02/27/26 01:00:31 PM: LoginPage : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/27/26 01:00:33 PM: LoginPage : INFO: Element found
+02/27/26 01:00:33 PM: LoginPage : INFO: Element Presence Check : Element Found
+02/27/26 01:00:33 PM: LoginPage : INFO: Login Failed : Please check your login details or internet connection
+02/27/26 01:00:33 PM: LoginPage : DEBUG: ********************End of login_test.py execution********************
+02/27/26 05:10:50 PM: LoginPage : INFO: Element found
+02/27/26 05:10:51 PM: LoginPage : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/27/26 05:10:51 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/27/26 05:10:51 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/27/26 05:10:53 PM: LoginPage : INFO: Element found
+02/27/26 05:10:53 PM: LoginPage : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/27/26 05:10:55 PM: LoginPage : INFO: Element found
+02/27/26 05:10:55 PM: LoginPage : INFO: Element Presence Check : Element Found
+02/27/26 05:10:55 PM: LoginPage : INFO: Login Failed : Please check your login details or internet connection
+02/27/26 05:10:55 PM: LoginPage : DEBUG: ********************End of login_test.py execution********************
+02/27/26 05:14:26 PM: LoginPage : INFO: Element found
+02/27/26 05:14:27 PM: LoginPage : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/27/26 05:14:27 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/27/26 05:14:27 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/27/26 05:14:29 PM: LoginPage : INFO: Element found
+02/27/26 05:14:29 PM: LoginPage : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/27/26 05:14:35 PM: LoginPage : WARNING: Element not found
+02/27/26 05:14:35 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 05:14:35 PM: LoginPage : INFO: Element Presence Check : Element Not Found
+02/27/26 05:14:35 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 05:14:35 PM: LoginPage : INFO: Element found
+02/27/26 05:14:35 PM: LoginPage : INFO: Element Presence Check : Element Found
+02/27/26 05:14:35 PM: LoginPage : INFO: Login Successful
+02/27/26 05:14:35 PM: LoginPage : DEBUG: ********************End of login_test.py execution********************
+02/27/26 05:16:41 PM: LoginPage : INFO: Element found
+02/27/26 05:16:42 PM: LoginPage : INFO: Element click was successful:. Locator//a[@href="/login"] Locator Type: xpath
+02/27/26 05:16:42 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="email"] Locator Type: xpath
+02/27/26 05:16:42 PM: LoginPage : INFO: Element text was added successful:. Locator//input[@id="login-password"] Locator Type: xpath
+02/27/26 05:16:44 PM: LoginPage : INFO: Element found
+02/27/26 05:16:44 PM: LoginPage : INFO: Element click was successful:. Locator//button[@id="login"] Locator Type: xpath
+02/27/26 05:16:49 PM: LoginPage : WARNING: Element not found
+02/27/26 05:16:49 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 05:16:49 PM: LoginPage : INFO: Element Presence Check : Element Not Found
+02/27/26 05:16:49 PM: LoginPage : DEBUG: **********Error in execution of login_test.py**********
+02/27/26 05:16:49 PM: LoginPage : INFO: Element found
+02/27/26 05:16:49 PM: LoginPage : INFO: Element Presence Check : Element Foundaa
+02/27/26 05:16:49 PM: LoginPage : DEBUG: ********************End of login_test.py execution********************
