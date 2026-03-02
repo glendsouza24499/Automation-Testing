@@ -22,4 +22,5 @@ if __name__ == "__main__":
 #This will cause the test to execute twice, if called from CMD or terminal, but without this the pycharm cant execute the test
 # callTest = LoginTest()
 # callTest.test_CommenceLogin()
+##
 
